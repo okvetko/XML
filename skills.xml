@@ -1,0 +1,11 @@
+<Skills>
+	<Documentation>Bug reports, Check lists</Documentation>
+	<APITesting>Postman</APITesting>
+	<Terminal>GitBush</Terminal>
+	<Emulator>Android Studio</Emulator>
+	<TrafficSniffing>Charlies, Fiddler</TrafficSniffing>
+	<DevTools>Google Chrome, FireFox</Devtools>
+	<DataBase>MySQL</DataBase>
+	<StressTesting>Jmeter</StressTesting>
+</Skills>	
+
