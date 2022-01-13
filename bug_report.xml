@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bugreport>
+  <ID>123</ID>
+  <Summary>The product catalog in the "Product Catalog" tab remains in Russian when switching to English</Summary>
+  <Environment>Windows 10, Chrome 97.0.4692.71</Environment>
+  <StepsToReproduce>1.Go to Product Catalog tab, 2.Switch the language to English by clicking the "Eng" button"</StepsToReproduce>
+  <ExpectedResult>Product catalog is displayed in English</ExpectedResult>
+  <ActualResult>Product catalog is displayed in Russian</ActualResult>
+  <Severity>Medium</Severity>
+  <Priority>High</Priority>
+  <ReportedBy>OKvetko</ReportedBy>
+  <AssignedTo>Developer</AssignedTo>
+  <Status>New</Status>
+</Bugreport>
+  
+    
+ 
